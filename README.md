@@ -1,6 +1,6 @@
 # Santos Bolos e Doces 🍰
 
-Site institucional de uma confeitaria fictícia, desenvolvido com **HTML e CSS**. Apresenta os bolos e doces, sabores e massas por meio de uma galeria de imagens.
+Site de uma confeitaria desenvolvido com **HTML e CSS**. Apresenta os bolos e doces, sabores e massas por meio de uma galeria de imagens.
 
 ## 📋 Sobre
 
